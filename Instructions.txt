@@ -1,0 +1,9 @@
+cmd Commands:
+
+1. npm init (in weather-app-master folder)
+2. npm i
+3. npm install moment --save
+4. npm install semantic-ui-react semantic-ui-css
+5. npm start
+6. allow location and keep refreshing!
+
